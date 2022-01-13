@@ -1,0 +1,26 @@
+{
+    "name": "Keisha Gittens",
+    "website": "https://github.com/kgittens89",
+    "linkedin": "https://www.linkedin.com/in/keisha-gittens/",
+    "github": "kgittens89",
+    "email": "keishamsa@me.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
