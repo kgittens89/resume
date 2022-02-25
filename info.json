@@ -1,26 +1,23 @@
 {
     "name": "Keisha Gittens",
-    "website": "https://github.com/kgittens89",
+    "website": "https://keisha-gittens.netlify.app/",
     "linkedin": "https://www.linkedin.com/in/keisha-gittens/",
     "github": "kgittens89",
     "email": "keishamsa@me.com",
-    "resume": "",
+    "resume": "https://drive.google.com/file/d/1JugAKtak4NL_Oihlby5oTNujkEqswZvl/view",
     "proficientTechnologies": [
         "Javascript",
         "React",
-        "Vue",
         "Node",
         "Express",
         "Mongodb",
         "PostgreSQL",
         "Python",
         "Django",
-        "Wordpress",
-        "Drupal"
     ],
     "otherSkills": [
-        "Unagi",
-        "Five Finger Fillet",
-        "Bridge"
+        "Baking",
+        "Dog-lover",
+        "Yoga"
     ]
 }
